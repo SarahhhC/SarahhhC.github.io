@@ -1,18 +1,18 @@
 # Site settings
-title: Your awesome title
+title: SarahhhC
 email: your-email@domain.com
 baseurl: "" # the subpath of your site, e.g. /blog
-#url: "http://yourdomain.com" # the base hostname & protocol for your site
+url: "http://SarahhhC.github.io/" # the base hostname & protocol for your site
 
 # Sidebar settings
-description: One sentence introducing yourself or what you do
+description: developer, Seoul
 
 # Social icons
-facebook: username
+facebook: sarahcho11
 linkedin: username
-github: username
-deviantart: username
-codepen: username
+github: SarahhhC
+#deviantart: username
+#codepen: username
 
 footer: © Taken theme
 

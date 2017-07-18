@@ -5,7 +5,7 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://SarahhhC.github.io/" # the base hostname & protocol for your site
 
 # Sidebar settings
-description: developer, Seoul
+description: Software Engineer
 
 # Social icons
 facebook: facebook.com/sarahcho11

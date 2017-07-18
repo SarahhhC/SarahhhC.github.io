@@ -1,6 +1,6 @@
 # Site settings
 title: SarahhhC
-email: your-email@domain.com
+email: joytutu29@gmail.com
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://SarahhhC.github.io/" # the base hostname & protocol for your site
 
@@ -8,13 +8,13 @@ url: "http://SarahhhC.github.io/" # the base hostname & protocol for your site
 description: developer, Seoul
 
 # Social icons
-facebook: sarahcho11
-linkedin: username
+facebook: facebook.com/sarahcho11
+linkedin: sarah-cho-61b645ab
 github: SarahhhC
 #deviantart: username
 #codepen: username
 
-footer: © Taken theme
+footer: © SarahCho
 
 # Build settings
 markdown: kramdown

@@ -1,20 +1,20 @@
 # Site settings
-title: SarahhhC
+title: SarahhhC Creative Factory
 email: joytutu29@gmail.com
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://SarahhhC.github.io/" # the base hostname & protocol for your site
 
 # Sidebar settings
 description: Software Engineer
+Love to Create
 
 # Social icons
 facebook: facebook.com/sarahcho11
 linkedin: sarah-cho-61b645ab
 github: SarahhhC
 #deviantart: username
-#codepen: username
 
-footer: © SarahCho
+footer: ©SarahCho
 
 # Build settings
 markdown: kramdown

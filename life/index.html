@@ -14,10 +14,12 @@ permalink: /life
 
  <ul>
   {% for post in site.posts %}
-    <li>
-      <a href="{{ post.url }}">{{ post.title }}</a>
-      {{ post.excerpt }}
-    </li>
+    {% if post.categories contains 'life' %}
+      <li>
+        <a href="{{ post.url }}">{{ post.title }}</a>
+        {{ post.excerpt }}
+      </li>
+    {% endif %}
   {% endfor %}
 </ul>
 

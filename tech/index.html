@@ -1,0 +1,25 @@
+---
+layout: page
+title: Tech
+permalink: /tech
+---
+
+
+ <div class="post-container">
+
+  <h2 class="post-title">Blog</h2>
+
+  <hr>
+
+ <ul>
+  {% for post in site.posts %}
+    <li>
+      <a href="{{ post.url }}">{{ post.title }}</a>
+      {{ post.excerpt }}
+    </li>
+  {% endfor %}
+</ul>
+
+
+
+</div>

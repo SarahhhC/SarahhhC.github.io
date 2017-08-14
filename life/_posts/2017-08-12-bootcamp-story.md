@@ -1,6 +1,6 @@
 ---
 layout: post
-title: [Life]부트캠프 이야기
+title: Life]부트캠프 이야기
 date:   2017-08-06 12:26:01 -0700
 ---
 
